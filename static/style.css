@@ -1,0 +1,30 @@
+body{
+font-family: Arial;
+background:#f4f4f4;
+text-align:center;
+}
+
+.container{
+margin-top:100px;
+background:white;
+padding:40px;
+width:400px;
+margin-left:auto;
+margin-right:auto;
+border-radius:10px;
+box-shadow:0 0 10px gray;
+}
+
+button{
+padding:10px 20px;
+background:green;
+color:white;
+border:none;
+font-size:16px;
+border-radius:5px;
+cursor:pointer;
+}
+
+button:hover{
+background:darkgreen;
+}
